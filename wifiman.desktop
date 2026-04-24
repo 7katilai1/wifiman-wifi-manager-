@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=WifiMan
+Comment=GTK4 NetworkManager Utility
+Exec=wifi-manager
+Icon=network-wireless
+Terminal=false
+Type=Application
+Categories=Settings;Network;System;
+StartupNotify=true

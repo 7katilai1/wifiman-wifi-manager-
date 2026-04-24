@@ -1,0 +1,11 @@
+[package]
+name = "wifi-manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = { version = "0.9", package = "gtk4" }
+glib = "0.20"
+tokio = { version = "1.40", features = ["rt-multi-thread", "macros", "process", "time"] }
+anyhow = "1.0"
+async-channel = "2.3"
