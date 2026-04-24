@@ -46,19 +46,6 @@ cp target/release/wifi-manager ~/.local/bin/
 cp wifiman.desktop ~/.local/share/applications/
 update-desktop-database ~/.local/share/applications/
 ```
-
-## 🛠️ Hyprland & Waybar Integration
-
-WifiMan is heavily optimized for modern window managers like Hyprland. You can force it to open as a floating, perfectly centered window directly from your Waybar config.
-
-**Waybar Network Module Configuration (`modules.json`):**
-```json
-  "network": {
-    "format-wifi": " {signalStrength}%",
-    "on-click": "~/.config/waybar/scripts/networkmanager.sh",
-  }
-```
-
 **Launch Script (`networkmanager.sh`):**
 ```bash
 #!/bin/bash
