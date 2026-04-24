@@ -28,7 +28,7 @@ Make sure you have the following dependencies installed on your system:
 ### Building from Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wifi-manager.git
+git clone  https://github.com/7katilai1/wifiman-wifi-manager-.git
 cd wifi-manager
 cargo build --release
 ```
@@ -88,7 +88,7 @@ Sisteminizde aşağıdaki bağımlılıkların kurulu olduğundan emin olun:
 ### Kaynak Koddan Derleme
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/wifi-manager.git
+git clone  https://github.com/7katilai1/wifiman-wifi-manager-.git
 cd wifi-manager
 cargo build --release
 ```
