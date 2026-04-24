@@ -53,6 +53,9 @@ Pull requests are welcome! Feel free to open issues for bugs or feature requests
 ## 📝 License
 This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](LICENSE).
 
+<img width="1334" height="854" alt="image" src="https://github.com/user-attachments/assets/9bd0708e-d05c-4b1b-8ac4-893270f38fbe" />
+
+
 ---
 
 # WifiMan 🛜 (Türkçe)
