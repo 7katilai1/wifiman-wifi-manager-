@@ -46,13 +46,6 @@ cp target/release/wifi-manager ~/.local/bin/
 cp wifiman.desktop ~/.local/share/applications/
 update-desktop-database ~/.local/share/applications/
 ```
-**Launch Script (`networkmanager.sh`):**
-```bash
-#!/bin/bash
-hyprctl dispatch exec "[float; size 700 500; move 600 150] wifi-manager"
-```
-
-*This guarantees WifiMan opens beautifully floating on your screen, completely bypassing any rigid tiling rules.*
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to open issues for bugs or feature requests.
